@@ -69,6 +69,10 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCit
 1. This will execute against the `csv` files found in [School Data](PyCitySchools/Resources/schools_complete.csv) and [Student Data](PyCitySchools/Resources/students_complete.csv) under `Resources` directory
 1. Please execute `Kernal > Restart & Run All` from the Jupyter Notebook menu to see the results
 
+## Notes
+
+For some reason when you preview [`PyCitySchools.ipynb`](PyCitySchools/PyCitySchools.ipynb) github is messing up the table formatting, please view this in Jupyter Notebook to see the correct table structure
+
 ## Author
 
 Made by Jay with :heart: in 2020.
