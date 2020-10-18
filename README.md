@@ -22,12 +22,14 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCit
 1. School Summary
    ![School Summary](PyCitySchools/images/schoolsummary.png)
 
-1. Top Performing Schools
+1. Top 5 Performing Schools
    ![Top Performing](PyCitySchools/images/topperforming.png)
 
-1. Bottom Performing Schools
+1. Bottom 5 Performing Schools
+   ![Bottom Performing](PyCitySchools/images/bottomperforming.png)
 
 1. Math Scores By Grade
+   ![Math By Grade](PyCitySchools/images/mathbygrade.png)
 
 1. Reading Scores By Grade
 
