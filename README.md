@@ -16,24 +16,26 @@
 
 All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCitySchools/PyCitySchools.ipynb)
 
-- District Summary
-  ![Education](PyCitySchools/images/district.png)
+1. District Summary
+   ![Education](PyCitySchools/images/district.png)
 
-- School Summary
+1. School Summary
 
-- Top Performing Schools
+1. Top Performing Schools
 
-- Bottom Performing Schools
+1. Bottom Performing Schools
 
-- Math Scores By Grade
+1. Math Scores By Grade
 
-- Reading Scores By Grade
+1. Reading Scores By Grade
 
-- Scores by School Spending
+1. Scores by School Spending
 
-- Scores by School Size
+1. Scores by School Size
 
-- Scores by School Type
+1. Scores by School Type
+
+## Observations
 
 ## Execution
 
