@@ -32,11 +32,11 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCit
 
    ![Bottom Performing](PyCitySchools/images/bottomperforming.png)
 
-1. Math Scores By Grade
+1. Math Scores by Grade
 
    ![Math By Grade](PyCitySchools/images/mathbygrade.png)
 
-1. Reading Scores By Grade
+1. Reading Scores by Grade
 
    ![Reading By Grade](PyCitySchools/images/readingbygrade.png)
 
@@ -55,6 +55,14 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCit
 ## Observations
 
 ## Execution
+
+1. The assumption is that you have a working Python 3.6, Jupyter Notebook 6.1.4 and Pandas 1.0.5
+1. Clone the [`git repository`](https://github.com/jayhjman/pandas-challenge) for this project
+1. Change into the [`repository directory`](https://github.com/jayhjman/pandas-challenge) and then into [`PyCitySchools`](PyCitySchools/)
+1. Execute `jupyter notebook` via command line
+1. Jupyer Notbook will open and once it does, select the file [`PyCitySchools.ipynb`](PyCitySchools/PyCitySchools.ipynb)
+1. This will execute against the `csv` files found in [School Data](PyCitySchools/Resources/schools_complete.csv) and [Student Data](PyCitySchools/Resources/students_complete.csv) under `Resources` directory
+1. Please execute `Kernal > Restart & Run All` from the Jupyter Notebook menu to see the results
 
 ## Author
 
