@@ -57,7 +57,7 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCit
 1. Overall looking at the data Charter Schools have less students
 1. Charter schools have higher math, reading and overall passing grades which is consistent with looking at the scores by school size
 1. Per student budget doesn't appear to be an indicator of passing scores as lower per student spending has higher passing rates than those schools who spend more on a student (however there might be higher costs because of the sheer number of students, staff, teachers and facilities needed)
-1. Not sure why (need more data) but it appears that passing grades for both math and reading don't vary more than ~2% grade year grade over year (9th, 10th, 11th, and 12th grades).
+1. Not sure why (need more data) but it appears that passing grades for both math and reading don't vary more than ~2% grade year over grade year (9th, 10th, 11th, and 12th grades).
 
 ## Execution
 
