@@ -38,11 +38,19 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](PyCit
 
 1. Reading Scores By Grade
 
+   ![Reading By Grade](PyCitySchools/images/readingbygrade.png)
+
 1. Scores by School Spending
+
+   ![Score By Spending](PyCitySchools/images/scorebyspending.png)
 
 1. Scores by School Size
 
+   ![Score By Size](PyCitySchools/images/scorebysize.png)
+
 1. Scores by School Type
+
+   ![Score By Type](PyCitySchools/images/scorebytype.png)
 
 ## Observations
 
